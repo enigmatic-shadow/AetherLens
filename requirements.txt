@@ -1,0 +1,13 @@
+openai
+gradio
+opencv-python
+stability-sdk
+transformers
+segment_anything
+diffusers
+torch
+qrcode
+diffusers
+Pillow
+requests
+torchvision
